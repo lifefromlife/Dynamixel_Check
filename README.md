@@ -1,7 +1,7 @@
 # Dynamixel_Check
 
 
-0. Dynamixel Workbench 및 아두이노 OpenCR 설정 예제에 다 있습니다. 
+0. Dynamixel Workbench 및 아두이노 OpenCR 설정 예제에 있습니다. 
 
 
 
