@@ -1,7 +1,7 @@
 # Dynamixel_Check
 
 
-### 0. 로보티즈 Dynamixel Workbench 및 아두이노 OpenCR 설정 예제를 참고하시면 됩니다.
+### 0. 로보티즈 Dynamixel Workbench 및 아두이노 OpenCR 설정 예제 참고
 
 1. Motor_Scan: 모터를 스캔하는 작업 -> Example 예제에도 있는데 BaudRate 56000으로 바꿔주었고, 모터 개수도 늘렸습니다. 
 
